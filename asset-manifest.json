@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/antiqua/static/css/main.a9d53019.chunk.css",
+    "main.js": "/antiqua/static/js/main.4722092d.chunk.js",
+    "main.js.map": "/antiqua/static/js/main.4722092d.chunk.js.map",
+    "runtime-main.js": "/antiqua/static/js/runtime-main.10d6c897.js",
+    "runtime-main.js.map": "/antiqua/static/js/runtime-main.10d6c897.js.map",
+    "static/js/2.22c86001.chunk.js": "/antiqua/static/js/2.22c86001.chunk.js",
+    "static/js/2.22c86001.chunk.js.map": "/antiqua/static/js/2.22c86001.chunk.js.map",
+    "index.html": "/antiqua/index.html",
+    "static/css/main.a9d53019.chunk.css.map": "/antiqua/static/css/main.a9d53019.chunk.css.map",
+    "static/js/2.22c86001.chunk.js.LICENSE.txt": "/antiqua/static/js/2.22c86001.chunk.js.LICENSE.txt",
+    "static/media/coin98.2318b44a.png": "/antiqua/static/media/coin98.2318b44a.png",
+    "static/media/metamask.09e5f554.svg": "/antiqua/static/media/metamask.09e5f554.svg",
+    "static/media/nft1.9061845e.png": "/antiqua/static/media/nft1.9061845e.png",
+    "static/media/owner.00fcf334.png": "/antiqua/static/media/owner.00fcf334.png",
+    "static/media/typo.5e81b0ed.png": "/antiqua/static/media/typo.5e81b0ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10d6c897.js",
+    "static/js/2.22c86001.chunk.js",
+    "static/css/main.a9d53019.chunk.css",
+    "static/js/main.4722092d.chunk.js"
+  ]
+}
